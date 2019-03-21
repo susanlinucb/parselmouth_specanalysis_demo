@@ -1,0 +1,6 @@
+numpy
+git+https://github.com/rsprouse/audiolabel.git
+git+https://github.com/YannickJadoul/Parselmouth.git
+pandas
+matplotlib
+seaborn
