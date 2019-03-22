@@ -1,6 +1,6 @@
 numpy
 git+https://github.com/rsprouse/audiolabel.git
-parselmouth
+git+https://github.com/YannickJadoul/Parselmouth.git
 urllib
 pandas
 matplotlib
